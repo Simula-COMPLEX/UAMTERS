@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ms_results_formal_experiments" />
+      <excludeFolder url="file://$MODULE_DIR$/experiment_data/ms_results" />
+    </content>
+    <orderEntry type="jdk" jdkName="screw_detection" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
