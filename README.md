@@ -5,9 +5,9 @@
 
 This repository contains:
 
-1. **[deepqtest-project](https://github.com/Simula-COMPLEX/DeepQTest/tree/main/deepqtest-project)** - all related algorithms and source code for conducting the experiment;
-2. **[formal-experiment](https://github.com/Simula-COMPLEX/DeepQTest/tree/main/formal-experiment)** - all the raw data for the experiment results and analyses;
-3. **[rest-api](https://github.com/Simula-COMPLEX/DeepQTest/tree/main/rest-api)** - the list of REST API endpoints for configuring the environment.
+1. **[experiment-data](https://github.com/Simula-COMPLEX/UAMTERS/tree/main/experiment-data)** - revelant data for the experiment results and analyses;
+2. **[formal-analysis](https://github.com/Simula-COMPLEX/UAMTERS/tree/main/formal-analysis)** - revelant code for the experimental analysis for each RQ;
+3. **[uamters-project](https://github.com/Simula-COMPLEX/UAMTERS/tree/main/uamters-project)** - source code for the mutation score calculation.
 
 ## Overview
 
