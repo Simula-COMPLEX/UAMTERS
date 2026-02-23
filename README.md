@@ -15,5 +15,5 @@ This repository contains:
 
 <!-- ## UAMTERS Overview -->
 
- <div align=center><img src="https://github.com/Simula-COMPLEX/UAMTERS/blob/main/figures/overview.png" width="960" /></div>
+ <div align=center><img src="https://github.com/Simula-COMPLEX/UAMTERS/blob/main/figs/overview.png" width="960" /></div>
 
